@@ -7,7 +7,7 @@
   "author": "",
   "license": "MIT",
   "fresh": {
-    "entry":"vim-select-text-objects-plugin.ts"
+    "entry":"vim-select-text-object.ts"
   },
   "devDependencies": {
     "typescript": "^6.0.0"
