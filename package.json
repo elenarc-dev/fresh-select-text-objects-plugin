@@ -1,0 +1,15 @@
+{
+  "$schema": "https://raw.githubusercontent.com/sinelaw/fresh/main/crates/fresh-editor/plugins/schemas/package.schema.json",
+  "name":"vim-select-text-objects-plugin",
+  "version": "0.1.0",
+  "description": "A Fresh plugin",
+  "type": "plugin",
+  "author": "",
+  "license": "MIT",
+  "fresh": {
+    "entry":"vim-select-text-objects-plugin.ts"
+  },
+  "devDependencies": {
+    "typescript": "^6.0.0"
+  }
+}
